@@ -1,2 +1,2 @@
 # sample-ripo
-git 練習用
+ 更新
